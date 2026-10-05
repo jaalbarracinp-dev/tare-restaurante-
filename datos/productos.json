@@ -1,0 +1,23 @@
+[
+    {
+        "id": "P001",
+        "nombre": "Hamburguesa Clásica",
+        "categoria": "Hamburguesas",
+        "precio": 4.5,
+        "stock": 20
+    },
+    {
+        "id": "P002",
+        "nombre": "Pizza Personal",
+        "categoria": "Pizzas",
+        "precio": 6.0,
+        "stock": 15
+    },
+    {
+        "id": "P003",
+        "nombre": "Jugo Natural",
+        "categoria": "Bebidas",
+        "precio": 2.0,
+        "stock": 30
+    }
+]
